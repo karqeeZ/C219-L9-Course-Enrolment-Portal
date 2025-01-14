@@ -10,8 +10,8 @@ export default function Header() {
         <img
           className="logo"
           src={logo}
-          alt="Red30 Tech logo"
-          title="Red30 Tech | Home"
+          alt="RP logo"
+          title="RP | Home"
         />
       </Link>
 
